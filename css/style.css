@@ -287,3 +287,19 @@
     background: var(--dark);
     border-color: var(--primary);
 }
+
+/* css chart salse revenue */
+canvas {
+    width: 100%;
+    height: auto;
+}
+
+.dropdown-utama {
+    display: flex;
+    flex-direction: row;
+    gap: 10px; /* Jarak antar dropdown */
+}
+
+.dropdown {
+    flex: 1; /* Mengisi lebar secara merata */
+}
